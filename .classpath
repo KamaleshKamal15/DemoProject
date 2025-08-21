@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/selenium-server-4.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/artifacts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/content.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/features/org.testng.eclipse.maven.feature_7.10.0.202404131040.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/features/org.testng.eclipse_7.10.0.202404131040.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/features/org.testng.p2.feature_7.10.1.r202404130807.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/com.beust.jcommander.source_1.82.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/com.beust.jcommander_1.82.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/com.google.guava_21.0.0.v20170206-1425.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/org.testng.eclipse.maven_7.10.0.202404131040.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/org.testng.eclipse_7.10.0.202404131040.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/org.testng.source_7.10.1.r202404130807.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/org.testng_7.10.1.r202404130807.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/org.webjars.jquery.source_3.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/org.webjars.jquery_3.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/org.yaml.snakeyaml.source_1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/org.yaml.snakeyaml_1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/slf4j.api.source_1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kammi/Downloads/org.testng.eclipse.updatesite/plugins/slf4j.api_1.7.36.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

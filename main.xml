@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <parameter name="browserlan" value="Chrome"></parameter>
+  <parameter name="Url" value="https://demowebshop.tricentis.com/"></parameter>
+  <parameter name="email" value="kamalesh@gamail.com" ></parameter>
+  <parameter name="pass" value="kamal@15"></parameter>
+  <parameter name="country" value="India"></parameter>
+  <parameter name="zipCode" value="600054"></parameter>
+  <parameter name="disCode" value="12e@255"></parameter>
+  <parameter name="giftCode" value="123098"></parameter>
+    <classes>
+      <class name="main.com.MainClass"/>
+    </classes>
+  </test> <!-- Test -->
+
+</suite> <!-- Suite -->
