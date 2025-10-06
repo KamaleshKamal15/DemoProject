@@ -9,7 +9,7 @@ import base.com.BaseClass;
 public class LoginPage extends BaseClass{
 	
 	
-	public LoginPage() {
+public LoginPage() {
 		
 		PageFactory.initElements(driver, this);
 		

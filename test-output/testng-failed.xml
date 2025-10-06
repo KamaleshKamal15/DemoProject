@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Default test(failed)">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="zip" value="600054"/>
+    <parameter name="country" value="India"/>
+    <parameter name="zipCode" value="600054"/>
+    <parameter name="pass" value="kamal@15"/>
+    <parameter name="giftCode" value="123098"/>
+    <parameter name="city" value="Tiruttani"/>
+    <parameter name="address2" value="No:34, Ramar Kovil Street, Akkachi Kuppam"/>
+    <parameter name="address1" value="No:34, Ramar Kovil Street, Akkachi Kuppam"/>
+    <parameter name="country1" value="India"/>
+    <parameter name="disCode" value="12e@255"/>
+    <parameter name="Url" value="https://demowebshop.tricentis.com/"/>
+    <parameter name="browserlan" value="Chrome"/>
+    <parameter name="faxnum" value="321621384635"/>
+    <parameter name="phnum" value="9342607833"/>
+    <parameter name="company" value="Greens Technology"/>
+    <parameter name="email" value="kamalesh@gamail.com"/>
     <classes>
-      <class name="main.com.AssertionTest">
+      <class name="main.com.MainClass">
         <methods>
-          <include name="hardAssert"/>
+          <include name="orderConfirm"/>
         </methods>
-      </class> <!-- main.com.AssertionTest -->
+      </class> <!-- main.com.MainClass -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

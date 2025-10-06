@@ -9,7 +9,16 @@
   <parameter name="country" value="India"></parameter>
   <parameter name="zipCode" value="600054"></parameter>
   <parameter name="disCode" value="12e@255"></parameter>
-  <parameter name="giftCode" value="123098"></parameter>
+  <parameter name="giftCode" value="123098"></parameter> 
+  <parameter name="company" value="Greens Technology"></parameter>
+  <parameter name="country1" value="India"></parameter>
+  <parameter name="city" value="Tiruttani"></parameter>
+  <parameter name="address1" value="No:34, Ramar Kovil Street, Akkachi Kuppam"></parameter>
+  <parameter name="address2" value="No:34, Ramar Kovil Street, Akkachi Kuppam"></parameter>
+  <parameter name="zip" value="600054"></parameter>
+  <parameter name="phnum" value="9342607833"></parameter>
+  <parameter name="faxnum" value="321621384635"></parameter> 
+  
     <classes>
       <class name="main.com.MainClass"/>
     </classes>
